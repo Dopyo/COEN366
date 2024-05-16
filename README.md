@@ -14,5 +14,5 @@ inform the clients about each whenever needed.
 The communications between the clients (peers) and the server is through UDP, while the
 communication between the clients (peers) is through UDP at the beginning, but file transfer
 must be through TCP.
-In the following we assume one user per client and therefore we use the terms user, client and
+We assume one user per client and therefore we use the terms user, client and
 peer interchangeably. 
