@@ -2,10 +2,9 @@ PROJECT DONE
 
 1. Introduction
 The project consists of implementing in, Java, C++, or Python, a Peer-to-Peer File System
-(P2FS), over UDP and TCP. The description of the protocol(s) to implement is given Section
-2 while the requirements are stated in Section 3.
+(P2FS), over UDP and TCP. 
 
-3. Peer to Peer File System (P2FS)
+2. Peer to Peer File System (P2FS)
 The Peer-to-Peer File System (P2FS) consists of several clients and one server. The main goal
 of the P2FS is to allow for users (clients/peers) to share files. For the project we are dealing
 only with text files.
