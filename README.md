@@ -16,3 +16,5 @@ communication between the clients (peers) is through UDP at the beginning, but f
 must be through TCP.
 We assume one user per client and therefore we use the terms user, client and
 peer interchangeably. 
+
+![alt text](p2pfs.png?raw=true)
